@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lessons.talkalmanmusic.com/sitemap-index.xml
