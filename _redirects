@@ -1,0 +1,3 @@
+/home    /    301
+# normalize nested instrument-area routes (defensive)
+/:area/:instrument-:area  /:instrument-:area/  301
