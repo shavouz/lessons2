@@ -1,3 +1,2 @@
-/home    /    301
-# normalize nested instrument-area routes (defensive)
-/:area/:instrument-:area  /:instrument-:area/  301
+https://kalmanmusiclessons.netlify.app/* https://lessons.talkalmanmusic.com/:splat 301!
+http://kalmanmusiclessons.netlify.app/* https://lessons.talkalmanmusic.com/:splat 301!
